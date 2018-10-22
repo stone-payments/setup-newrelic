@@ -23,7 +23,7 @@ python setup_newrelic.py
 
 
 ### Warning:
-Remember to set the config file path as an environment variable **before** starting the newrelic agent.
+- Remember to set the config file path as an environment variable **before** starting the newrelic agent.
 
 | Var name  | Value |
 | ------------- | ------------- |
